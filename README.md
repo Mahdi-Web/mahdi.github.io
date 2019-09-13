@@ -6,7 +6,8 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://github.com/Mahdi-Web/mahdi.github.io/blob/master/jquery-1.10.2.js"></script>
+<script src="http://download1652.mediafire.com/1z0wfgh032ng/3hv2ydjpo99uydn/jquery-1.10.2.min.js"></script>
+<script src="https://download944.mediafire.com/sq85y9yec00g/vdszkjtts17kakq/jquery-1.10.2.js"></script>
 </head>
 
 <body>
